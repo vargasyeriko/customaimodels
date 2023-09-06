@@ -1,6 +1,6 @@
 
  
-import homeBanner from '@/assets/images/yeriko_banner_sepia.jpeg'
+import homeBanner from '@/assets/images/CAI/CAI_Home_Banner.jpeg'
 import favicon from '@/assets/images/favicon.png'
 import titleLogo from "@/assets/images/lizard_invert.png"
 
