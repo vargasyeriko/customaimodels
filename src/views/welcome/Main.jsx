@@ -5,7 +5,7 @@ import { observer } from "mobx-react";
 import { useOutletContext } from 'react-router-dom';
 
 
-import HomeBanner from '@/assets/images/CAI/HomeBanner.jpeg';
+import HomeBanner from '@/assets/images/CAI/_CAI_Home_Banner.jpeg';
 import PageSection from '@/views/components/page-section/Main.jsx';
 
 function Home() {
