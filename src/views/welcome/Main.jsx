@@ -5,7 +5,7 @@ import { observer } from "mobx-react";
 import { useOutletContext } from 'react-router-dom';
 
 
-import HomeBanner from '@/assets/images/yeriko_banner_sepia.jpeg';
+import HomeBanner from '@/assets/images/CAI/HomeBanner.jpeg';
 import PageSection from '@/views/components/page-section/Main.jsx';
 
 function Home() {
