@@ -1,7 +1,7 @@
 
  
-import homeBanner from '@/assets/images/CAI/CAI_Home_Banner.jpeg'
-import favicon from '@/assets/images/favicon.png'
+import homeBanner from '@/assets/images/CAI/_CAI_Home_Banner.jpeg'
+import favicon from '@/assets/images/CAI/_CAI_logo.png'
 import titleLogo from "@/assets/images/lizard_invert.png"
 
 const config = {
